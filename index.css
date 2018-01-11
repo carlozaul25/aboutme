@@ -1,4 +1,7 @@
-
+img {
+        float: left;
+    }
+}
 body
     {
 background-color: lightblue;
@@ -25,15 +28,13 @@ li a {
     text-decoration: none;
     }
 
-
 li a:hover {
     background-color: #111;
         }
 
 
-
 #tittle {
-	color:  rgb(251, 77, 76);
+	color:  rgb(245, 80, 76);
 	font-size: 40px;
 	text-align: center;
 	border:10px solid blue;
