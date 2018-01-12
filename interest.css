@@ -18,8 +18,22 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
     }
-@media (max-width: 900px) and (min-width: 700px) {
+}
+#container {
+    max-width: 100px;
+    margin: 0 auto;
 
-li a:hover {
-    background-color: #125;
-        }
+    .imgContainer{
+        width: 100%;
+    }
+
+}
+
+.image {
+    float: left;
+    width: 33%;
+    img {
+        width: 100%;
+        display: block;
+    }
+}
