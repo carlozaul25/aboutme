@@ -31,3 +31,12 @@ li a {
 li a:hover {
     background-color: #131;
         }
+
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+able {
+    border-spacing: 15px;
+}
+<table style="width:100%">

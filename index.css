@@ -34,7 +34,7 @@ li a:hover {
 
 
 #tittle {
-	color:  rgb(245, 80, 76);
+	color:  rgb(255, 85, 76);
 	font-size: 40px;
 	text-align: center;
 	border:10px solid blue;
@@ -48,3 +48,7 @@ li a:hover {
 	width: 100%;
 	margin: 10 auto;
 	background-color: lightblue;
+
+#subtittle {
+
+    }
