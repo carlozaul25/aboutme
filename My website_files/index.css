@@ -1,14 +1,24 @@
-ul {
+img {
+        float: left;
+    }
+}
+body
+    {
+background-color: lightblue;
+    }
+
+
+ul  {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #323;
-}
+    }
 
 li {
     float: left;
-}
+    }
 
 li a {
     display: block;
@@ -16,24 +26,22 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-}
-
+    }
 
 li a:hover {
-    background-color: #111;
-}
-
+    background-color: #131;
+        }
 
 
 #tittle {
-	color:  rgb(201, 76, 76);
+	color:  rgb(245, 80, 76);
 	font-size: 40px;
 	text-align: center;
 	border:10px solid blue;
-	border-radius: 10px;
-	border: 2px;
+    border-radius: 20px;
+    border: 3px;
 
-}
+        }
 
 
 .navbar {
